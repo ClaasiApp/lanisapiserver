@@ -1,0 +1,2 @@
+flask
+git+https://github.com/lanis-mobile/lanisapi.git
